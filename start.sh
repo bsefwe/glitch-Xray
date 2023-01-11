@@ -1,7 +1,7 @@
 #!/bin/bash
 # set val
 
-AUUID=54b9ec03-dd78-44a7-a4de-b4005357e786
+AUUID=5aaed9b7-7fe3-47c3-bb52-db59859ce198
 ParameterSSENCYPT=chacha20-ietf-poly1305
 CADDYIndexPage=https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html
 
