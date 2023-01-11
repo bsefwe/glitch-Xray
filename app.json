@@ -1,0 +1,22 @@
+{
+    "name": "vrush",
+    "description": "nothing here",
+    "keywords": ["just run it"],
+    "env": {
+        "AUUID": {
+            "description": "UUID充当各个配置的路径和账号密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
+            "value": "54b9ec03-dd78-44a7-a4de-b4005357e786"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "CADDYIndexPage": {
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
+            "value": "https://codeload.github.com/ripienaar/free-for-dev/zip/master"
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
