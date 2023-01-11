@@ -15,34 +15,18 @@ vless 性能更加优秀，占用资源更少。
 
  >  代理协议：vless 或 vmess 或 Trojan-go
 
-16
-
     *地址：平台分配的域名链接
-
-17
 
     *端口：443
 
-18
-
     *默认UUID：
-
-19
 
     *加密：none
 
-20
-
     *传输协议：ws
-
-21
 
     *伪装类型：none
 
-22
-
     *路径：/$AUUID-vless // 默认vless使用/$AUUID-vless，vmess使用/$AUUID-vmess，Trojan使用/$AUUID-Trojan
-
-23
 
     *底层传输安全：tls
