@@ -1,5 +1,6 @@
 #!/bin/bash
 # set val
+python3 /app/self-ping.py &
 
 AUUID=5aaed9b7-7fe3-47c3-bb52-db59859ce198
 ParameterSSENCYPT=chacha20-ietf-poly1305
