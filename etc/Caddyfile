@@ -1,4 +1,4 @@
-:7000
+:$PORT
 root * usr/share/caddy
 file_server browse
 
